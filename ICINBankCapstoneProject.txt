@@ -1,6 +1,6 @@
 ICIN Bank Capstone Project 
 =========================
-Github Link -
+Github Link - https://github.com/githubajaydhage/Final-Capstone-Project/tree/master
 =========================
 Features of the application:
 =========================
